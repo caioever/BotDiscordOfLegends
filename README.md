@@ -1,6 +1,6 @@
 # BotDiscordOfLegends
 Bot que busca a partida ativa de determinado invocador, com base no seu nome
 
-Comandos:
-!partida <nomeDeInvocado>
-!atualizar
+# Comandos:
+<p>!partida (nomeDeInvocado)</p>
+<p>!atualizar</p>
