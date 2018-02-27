@@ -1,0 +1,12 @@
+{
+  "name": "BotDiscordOfLegends",
+  "version": "1.0.0",
+  "description": "Integra API do league com discord",
+  "main": "BotDoLol.js",
+  "author": "caio.barcelos",
+  "dependencies": {
+    "deasync": "^0.1.12",
+    "discord.js": "^11.3.0",
+    "request": "^2.83.0"
+  }
+}
